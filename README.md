@@ -1,6 +1,6 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-Sinhala-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-Sinhala-red.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
 <h1 align="center"><b> ＫＩＮＧ ＭＡＬＩＹＡ  </b></h1>
@@ -86,6 +86,7 @@ From the first device you need to install MALIYA Bot.`
 
 
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
+> <br>
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 # 🚀𝗞𝗜𝗡𝗚 𝗠𝗔𝗟𝗜𝗬𝗔
 🦹‍♀️Here is the KING MALIYA features
