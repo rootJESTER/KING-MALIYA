@@ -76,10 +76,10 @@ Project of  🧚<b>ⱤØØ₮ ᴊᴇꜱᴛᴇʀ<b> - Makes it easy and fun to us
 #### You can easily get the QR code Repl.it .. Click the button below
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
 
-`You need 2 mobile phones to build the Neotro-x  bot!
+`You need 2 mobile phones to build the MALIYA bot!
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
-From the first device you need to install Neotro-x  Bot.`
+From the first device you need to install MALIYA Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/AMAZON-BETA)
@@ -87,15 +87,15 @@ From the first device you need to install Neotro-x  Bot.`
 
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
-# 🚀Amazone Alexa
-🦹‍♀️Here is the Amazone  bot features
+# 🚀𝗞𝗜𝗡𝗚 𝗠𝗔𝗟𝗜𝗬𝗔
+🦹‍♀️Here is the KING MALIYA features
 
 <a href="https://gist.github.com/rootJESTER/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
 
-🦹‍♀️Here is the Alexa  Command list
+🦹‍♀️Here is the KING MALIYA Command list
 
 <a href="https://gist.github.com/rootJESTER/86f619bc49691abb73546819754e1b94">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -125,7 +125,7 @@ There are **100+** Features/Commands Are there in **this bot!**
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, alexa  executives do not accept responsibility.
+Absolutely, MALIYA  executives do not accept responsibility.
 By establishing the alexa, you are deemed to have accepted these responsibilities.
 ```
 
@@ -145,12 +145,12 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94716229590)
 
 
-### 🚀Amazone Alexa Team
+### 🚀ᴋɪɴɢ ᴍᴀʟɪʏᴀ ᴛᴇᴀᴍ
 
-[![Find On Whatsapp ](https://img.shields.io/badge/ⱤØØ₮-ᴊᴇꜱᴛᴇʀ-blue.svg)](https://Wa.me/716229590)
-[![Find On Whatsapp ](https://img.shields.io/badge/ASHEN-ANUTHTHARA-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/ⱤØØ₮-ᴊᴇꜱᴛᴇʀ-blue.svg)](https://Wa.me/+94716229590)
+[![Find On Whatsapp ](https://img.shields.io/badge/ASHEN-ANUTHTHARA-blue.svg)](https://Wa.me/+94777435529)
 
 ## 👽Thanks To
-[![ASHEN](https://github.com/yusufusta.png?size=50)](https://wa.me/+94716229590)
+[![ASHEN](https://github.com/yusufusta.png?size=50)](https://wa.me/+94777435529)
 <br>
-[ASHEN](https://wa.me/+94)
+[ASHEN](https://wa.me/+94777435529)
