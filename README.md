@@ -74,7 +74,7 @@ Project of  🧚<b>ⱤØØ₮ ᴊᴇꜱᴛᴇʀ<b> - Makes it easy and fun to us
 ### Simple method 
 
 #### You can easily get the QR code Repl.it .. Click the button below
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@rootJESTER/KING-MALIYA-1?v=1)
 
 `You need 2 mobile phones to build the MALIYA bot!
 You will run the bot from the second device.
