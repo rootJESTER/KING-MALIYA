@@ -1,6 +1,6 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README-EN.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README.md)
 
 ![logo](https://telegra.ph/file/68278311bb1171379b27e.jpg)
 <h1 align="center"><b> ＫＩＮＧ ＭＡＬＩＹＡ  </b></h1>
