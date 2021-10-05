@@ -82,7 +82,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install MALIYA Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FrootJESTER%2FKING-MALIYA&template=https%3A%2F%2Fgithub.com%2FrootJESTER%2FKING-MALIYA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rootJESTER/KING-MALIYA)
 
 
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
@@ -154,10 +154,6 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/DEWINDU-BANDARA-blue.svg)](https://Wa.me/+94741701240)
 
 ## 👽Thanks To
-[![NILAKSHI](https://github.com/yusufusta.png?size=50)](https://wa.me/+94762187388)
 [![ASHEN](https://github.com/yusufusta.png?size=50)](https://wa.me/+94777435529)
-[![DEWINDU](https://github.com/yusufusta.png?size=50)](https://wa.me/+94741701240)
 <br>
-[NILAKSHI](https://wa.me/+94762187388)
 [ASHEN](https://wa.me/+94777435529)
-[DEWINDU](https://wa.me/+94741701240)
