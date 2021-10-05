@@ -85,7 +85,7 @@ MALIYA bot ගොඩනැගීමට ඔබට ජංගම දුරකථන
 පළමු උපාංගයෙන් ඔබට MALIYA Bot install කිරීමට අවශ්‍යයි..
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FrootJESTER%2FKING-MALIYA&template=https%3A%2F%2Fgithub.com%2FrootJESTER%2FKING-MALIYA)
 
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
