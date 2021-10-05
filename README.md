@@ -1,6 +1,6 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README-EN.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/rootJESTER/KING-MALIYA/blob/main/README.md)
     
 </a>          
 
