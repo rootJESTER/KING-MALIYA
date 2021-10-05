@@ -85,7 +85,7 @@ MALIYA bot ගොඩනැගීමට ඔබට ජංගම දුරකථන
 පළමු උපාංගයෙන් ඔබට MALIYA Bot install කිරීමට අවශ්‍යයි..
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
-[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FrootJESTER%2FKING-MALIYA&template=https%3A%2F%2Fgithub.com%2FrootJESTER%2FKING-MALIYA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rootJESTER/KING-MALIYA)
 
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
@@ -145,27 +145,20 @@ MALIYA bot ගොඩනැගීමට ඔබට ජංගම දුරකථන
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94716229590)
 
 
-### 🚀Amazone Alexa Team
+### 🚀ᴋɪɴɢ-ᴍᴀʟɪʏᴀ ᴛᴇᴀᴍ
 
 [![Find On Whatsapp ](https://img.shields.io/badge/ⱤØØ₮-ᴊᴇꜱᴛᴇʀ-blue.svg)](https://Wa.me/+94716229590)
 [![Find On Whatsapp ](https://img.shields.io/badge/NILAKSHI-DANANJANA-blue.svg)](https://Wa.me/+94762187388)
 [![Find On Whatsapp ](https://img.shields.io/badge/ASHEN-ANUTHTHARA-blue.svg)](https://Wa.me/+94777435529)
 [![Find On Whatsapp ](https://img.shields.io/badge/DEWINDU-BANDARA-blue.svg)](https://Wa.me/+94741701240)
 
-### 📑Amozon Support Groups
+### 📑ᴋɪɴɢ-ᴍᴀʟɪʏᴀ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
+[![Find On Whatsapp ](https://img.shields.io/badge/MALIYA-Support01-blue.svg)](https://chat.whatsapp.com/I44L7OPzNYMLvq24GuV7sz)
+[![Find On Whatsapp ](https://img.shields.io/badge/MALIYA-Support02-blue.svg)](https://chat.whatsapp.com/LpUvTydIHr3ApfGVzHNCbJ)
+[![Find On Whatsapp ](https://img.shields.io/badge/MALIYA-Support03-blue.svg)](https://chat.whatsapp.com/CCUbLy6jhg2F5dsPBWXBUT)
+
 ## 👽Thanks To
-[![NILAKSHI](https://github.com/yusufusta.png?size=50)](https://wa.me/+94762187388)
 [![ASHEN](https://github.com/yusufusta.png?size=50)](https://wa.me/+94777435529)
-[![DEWINDU](https://github.com/yusufusta.png?size=50)](https://wa.me/+94741701240)
 <br>
-[NILAKSHI](https://wa.me/+94762187388)
 [ASHEN](https://wa.me/+94777435529)
-[DEWINDU](https://wa.me/+94741701240)
