@@ -149,7 +149,6 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 ### 🚀ᴋɪɴɢ ᴍᴀʟɪʏᴀ ᴛᴇᴀᴍ
 
 [![Find On Whatsapp ](https://img.shields.io/badge/ⱤØØ₮-ᴊᴇꜱᴛᴇʀ-blue.svg)](https://Wa.me/+94716229590)
-[![Find On Whatsapp ](https://img.shields.io/badge/NILAKSHI-DANANJANA-blue.svg)](https://Wa.me/+94762187388)
 [![Find On Whatsapp ](https://img.shields.io/badge/ASHEN-ANUTHTHARA-blue.svg)](https://Wa.me/+94777435529)
 [![Find On Whatsapp ](https://img.shields.io/badge/DEWINDU-BANDARA-blue.svg)](https://Wa.me/+94741701240)
 
